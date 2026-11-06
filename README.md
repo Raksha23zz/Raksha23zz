@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ascii-portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./ascii-portrait-light.svg">
-  <img src="./ascii-portrait-dark.svg" alt="ASCII portrait" width="400">
-</picture>
+
 <!--
 Raksha Kiran — GitHub Profile README
 Place this README.md, dark.svg, and light.svg in the repository named exactly:
