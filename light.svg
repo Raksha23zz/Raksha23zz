@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1180" height="610" viewBox="0 0 1180 610" role="img"
+     aria-labelledby="title desc">
+  <title id="title">Raksha Kiran — Aspiring Full Stack Developer</title>
+  <desc id="desc">A terminal-inspired developer profile banner with a character-art portrait, skills, projects, education, and contact links.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f9ff"/><stop offset=".55" stop-color="#edf4ff"/><stop offset="1" stop-color="#f3f0ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/><stop offset=".52" stop-color="#0891b2"/><stop offset="1" stop-color="#059669"/>
+      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#0891b2" stop-opacity=".20"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#7dd3fc" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="portraitClip"><rect x="48" y="116" width="392" height="318" rx="14"/></clipPath>
+  </defs>
+  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
+  <rect width="1180" height="610" rx="24" fill="url(#grid)"/>
+  <circle cx="270" cy="275" r="250" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="1000" cy="120" r="220" fill="#8b5cf6" opacity=".07" filter="url(#soft)"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#94a3b8" stroke-opacity=".55"/>
+  <rect x="1" y="1" width="1178" height="3" rx="2" fill="url(#accent)"/>
+  <!-- editor chrome -->
+  <rect x="24" y="22" width="1132" height="42" rx="10" fill="#e8f0fb" stroke="#cbd5e1" stroke-opacity=".8"/>
+  <circle cx="48" cy="43" r="5" fill="#fb7185"/><circle cx="66" cy="43" r="5" fill="#fbbf24"/><circle cx="84" cy="43" r="5" fill="#34d399"/>
+  <text x="108" y="48" fill="#64748b" font-family="monospace" font-size="13">raksha@profile: ~/github</text>
+  <text x="1128" y="48" text-anchor="end" fill="#34d399" font-family="monospace" font-size="11" letter-spacing="2">● ONLINE</text>
+  <!-- left panel -->
+  <rect x="24" y="82" width="438" height="504" rx="16" fill="#ffffff" fill-opacity=".92" stroke="#cbd5e1"/>
+  <text x="48" y="108" fill="#0369a1" font-family="monospace" font-size="11" letter-spacing="2">VISUAL.MAP / PROFILE</text>
+  <rect x="48" y="120" width="390" height="314" rx="14" fill="#f1f7ff" stroke="#0284c7" stroke-opacity=".35"/>
+  <g clip-path="url(#portraitClip)" transform="translate(60 130)">
+    <rect x="-12" y="-10" width="370" height="300" fill="#f1f7ff"/>
+    <text class="ascii" x="0" y="0" fill="#0e7490" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="7.9" xml:space="preserve" letter-spacing="-.25">
+<tspan x="0" dy="0">s;;;iH9##B@@@9H32AXsi:.....,:;;5&amp;@&amp;#3, .;;  ;i,   .: .</tspan>
+<tspan x="0" dy="10.2">siii2@&amp;9B9@@&amp;SM32AXsi;,,....:iXAH@&amp;9Gr.,i.  i:    ::,,</tspan>
+<tspan x="0" dy="10.2">siis9@@BB@@@9Hh32AXsri;;;;;XMHMMH&amp;@BSX,;i  ,i..  ,i,,,</tspan>
+<tspan x="0" dy="10.2">iirh@@@&amp;99@@SHh52AXXssriiXM#G5XrA#@#Sh:i:  i: ., i: ,.</tspan>
+<tspan x="0" dy="10.2">irX9@@@@&amp;B@@#Mh3hhh32XXrr2HMAiirrhB#9SXs  ,r.  ..i.,:</tspan>
+<tspan x="0" dy="10.2">sXh@@@@@@@@@9SS9BBB#M5AsrA522XA5A3&amp;&amp;&amp;#Mr .ii:  .;;.:.</tspan>
+<tspan x="0" dy="10.2">22G@@@@@@@@@@&amp;B9#99#SM2iiX2hSB9HHG@&amp;&amp;BGi :X;,, .r,,:</tspan>
+<tspan x="0" dy="10.2">25B@@@@@@@@@@BGMhhHS#Sh;:r5HH9H2h2&amp;@&amp;&amp;Gr,is:,. ;r.;, ,</tspan>
+<tspan x="0" dy="10.2">ih@@@@@@@@@@@B#GHhhSS#Hr:;X3h32Ar;A&amp;@&amp;#X;si,,..r;:;.,;</tspan>
+<tspan x="0" dy="10.2">s9@@@@@@@@@@@@&amp;9&amp;@&amp;HGSHX,:;iXXs;,:,2@&amp;9ArX:.,.;s,;: ,,</tspan>
+<tspan x="0" dy="10.2">G&amp;@&amp;@@@@@@@@@@@&amp;S&amp;#25HMX,:;:,,,..,:;9@B5AX,.,.si:i.,;.</tspan>
+<tspan x="0" dy="10.2">G#@@@@@@@@@@@9@&amp;SHM22hM2:,;:,,.  ,;:H@&amp;35r,:,;X;i;.;:.</tspan>
+<tspan x="0" dy="10.2">39@@@@&amp;@@@@@@SSHM3AsAhH5:,;;ii;:,:;:h@BM2;::,sr;r,,;.,</tspan>
+<tspan x="0" dy="10.2">9B@@@@@@@@@@@S3AsrrrAMG2;.::iA5AsriiM@BHX;;:;A;ri.i;.:</tspan>
+<tspan x="0" dy="10.2">&amp;B@@@@@@@@@@@#hAsrir2HH3r:r2rrhG3AXsH&amp;9Ss:i:ssis,,i,,:</tspan>
+<tspan x="0" dy="10.2">@B@@@@@@@@@@@BM2ssrXhSSBhX5SX;sH9G3AG&amp;#B95i:Xrsi.;;.;.</tspan>
+<tspan x="0" dy="10.2">@&amp;&amp;@BB@@@@@@@&amp;G3AXA5H9&amp;@BGhXiiiASS5X#&amp;BB&amp;@#h2ir:,r,:;</tspan>
+<tspan x="0" dy="10.2">@@B@BB@@@@@@@@#M325HSBB&amp;BMXisX5Hh5X2B@&amp;&amp;B&amp;&amp;&amp;9G5::;.i,</tspan>
+<tspan x="0" dy="10.2">@&amp;99@@@@@@@@@@&amp;#HMG#####G5255s25A2Xh@@&amp;BB&amp;&amp;&amp;&amp;&amp;&amp;Shr,: .</tspan>
+<tspan x="0" dy="10.2">@@&amp;B&amp;@@@@@@@@@@&amp;9S#B&amp;B9##H5: ,sssAAS@@S9&amp;B@@&amp;&amp;B&amp;@9GA.</tspan>
+<tspan x="0" dy="10.2">@@@&amp;&amp;@@@@&amp;@@@@@@&amp;ShHB@BH2;. ;sXrsX5@@@Mh@&amp;@@@&amp;&amp;&amp;&amp;&amp;BBH,</tspan>
+<tspan x="0" dy="10.2">@@&amp;&amp;@@@@@&amp;@@@@@@&amp;9M3H#GM2riiiXrirsG@@@95B@@@@&amp;@&amp;&amp;&amp;B9&amp;M</tspan>
+<tspan x="0" dy="10.2">@BB@@@@@@@@@@@@@@B#hMS#Sh5552XiiiA@@@@&amp;GS@@@@@@@&amp;@&amp;&amp;BB</tspan>
+<tspan x="0" dy="10.2">@@@@@@@@@@@@@@@@@@BShHS#SGM3AriiiG@@@@@B#&amp;@@@@@@@@@&amp;BB</tspan>
+<tspan x="0" dy="10.2">@@@@&amp;@@@@@@@@@@@@@@B#HHHh5Asi;;;A@@@@&amp;&amp;BBB9B&amp;@@@@@@@&amp;&amp;</tspan>
+<tspan x="0" dy="10.2">@@@@@@@@@@@@@@@@@@@@B#Hh5Asiiiii#@@@MG@&amp;9#999B@@@@@@@#</tspan>
+<tspan x="0" dy="10.2">@@@@@@@@@@@@@B&amp;@@@B@@&amp;9Hh2AXXsrh@&amp;9&amp;##3hXXMish5S&amp;@@@&amp;i</tspan>
+<tspan x="0" dy="10.2">@@&amp;&amp;B@@@@@@#3G@@@BS@@@&amp;9SM353hG&amp;@@#9B2rri2A,As ,2MMHi.</tspan>
+    </text>
+    <path d="M0 34H360" stroke="#22d3ee" stroke-opacity=".10">
+      <animate attributeName="transform" values="translate(0 -30);translate(0 260);translate(0 -30)" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="243" y="458" text-anchor="middle" fill="#0f172a" font-family="monospace" font-size="22" font-weight="700">Raksha Kiran</text>
+  <text x="243" y="484" text-anchor="middle" fill="#0369a1" font-family="monospace" font-size="13">Aspiring Full Stack Developer</text>
+  <text x="48" y="535" fill="#64748b" font-family="monospace" font-size="12">~/profile $ build --learn --create</text>
+  <rect x="48" y="550" width="8" height="15" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+  <!-- right panel -->
+  <rect x="482" y="82" width="674" height="504" rx="16" fill="#ffffff" fill-opacity=".92" stroke="#cbd5e1"/>
+  <text x="510" y="111" fill="#0369a1" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+  <text x="1128" y="111" text-anchor="end" fill="#64748b" font-family="monospace" font-size="10">PROFILE.SVG / v1.0</text>
+  <path d="M510 126H1128" stroke="#cbd5e1"/>
+  <text x="510" y="157" fill="#34d399" font-family="monospace" font-size="13">$ ./profile.sh</text>
+  <text x="510" y="197" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="1">IDENTITY</text>
+  <text x="510" y="222" fill="#0f172a" font-family="monospace" font-size="20" font-weight="700">Raksha Kiran</text>
+  <text x="510" y="246" fill="#4f46e5" font-family="monospace" font-size="14">Aspiring Full Stack Developer</text>
+  <path d="M510 265H1128" stroke="#cbd5e1"/>
+  <text x="510" y="291" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="1">CORE STACK</text>
+  <g font-family="monospace" font-size="12" fill="#1e293b">
+    <rect x="510" y="304" width="74" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="547" y="322" text-anchor="middle">C++</text>
+    <rect x="592" y="304" width="74" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="629" y="322" text-anchor="middle">HTML</text>
+    <rect x="674" y="304" width="68" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="708" y="322" text-anchor="middle">CSS</text>
+    <rect x="750" y="304" width="84" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="792" y="322" text-anchor="middle">React</text>
+    <rect x="842" y="304" width="108" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="896" y="322" text-anchor="middle">JavaScript</text>
+    <rect x="958" y="304" width="76" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="996" y="322" text-anchor="middle">Python</text>
+    <rect x="1042" y="304" width="86" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="1085" y="322" text-anchor="middle">MongoDB</text>
+    <rect x="510" y="340" width="60" height="27" rx="7" fill="#edf4ff" stroke="#cbd5e1"/><text x="540" y="358" text-anchor="middle">SQL</text>
+  </g>
+  <path d="M510 383H1128" stroke="#cbd5e1"/>
+  <text x="510" y="408" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="1">SELECTED PROJECTS</text>
+  <g font-family="monospace">
+    <circle cx="518" cy="430" r="3" fill="#34d399"/><text x="532" y="434" fill="#0f172a" font-size="13">Admission Token Queue Management System</text>
+    <circle cx="518" cy="454" r="3" fill="#22d3ee"/><text x="532" y="458" fill="#0f172a" font-size="13">Smart Parking System</text>
+    <circle cx="518" cy="478" r="3" fill="#a78bfa"/><text x="532" y="482" fill="#0f172a" font-size="13">CampusFix</text>
+  </g>
+  <path d="M510 510H1128" stroke="#cbd5e1"/>
+  <text x="510" y="532" fill="#64748b" font-family="monospace" font-size="11" letter-spacing="1">CONNECT</text>
+  <text x="510" y="554" fill="#0369a1" font-family="monospace" font-size="12">github.com/Raksha23zz</text>
+  <text x="826" y="554" fill="#0369a1" font-family="monospace" font-size="12">linkedin.com/in/raksha-k-abb087326</text>
+  <text x="510" y="576" fill="#64748b" font-family="monospace" font-size="11">raksha6556@gmail.com</text>
+</svg>
