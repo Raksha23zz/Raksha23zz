@@ -18,7 +18,7 @@ Raksha23zz
 </p>
 
 <p align="center">
-  I enjoy learning and building with web technologies, programming languages, and databases.
+  Curious builder who learns by making things that actually work.
 </p>
 
 ---
@@ -32,7 +32,7 @@ Raksha23zz
 
 ### Tech Stack
 
-**Languages:** C++, JavaScript, Python
+**Languages:** C++, JavaScript, Python,Java
 
 **Web:** HTML, CSS, React
 
