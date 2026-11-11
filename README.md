@@ -28,7 +28,7 @@ Raksha23zz
 - 🎓 BE student at **St Joseph Engineering College**
 - 💻 Exploring full-stack development
 - 🧩 Interested in building practical software projects
-- 📊 Exploring data analytics on the side, always curious about what the numbers say.
+- 📊 Also diving into data analytics, because every dataset has a story.
 - 📫 Reach me at **[raksha6556@gmail.com](mailto:raksha6556@gmail.com)**
 
 ### Tech Stack
