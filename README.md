@@ -1,6 +1,3 @@
-
-
-
 <!--
 Raksha Kiran — GitHub Profile README
 Place this README.md, dark.svg, and light.svg in the repository named exactly:
@@ -13,7 +10,7 @@ Raksha23zz
   <img src="./dark.svg" alt="Raksha Kiran — Aspiring Full Stack Developer">
 </picture>
 
-<h2 align="center">Hi, I'm Raksha Kiran 👋</h2>
+<h2 align="center">Hello!,I'm Raksha Kiran 👋</h2>
 
 <p align="center">
   Aspiring Full Stack Developer
