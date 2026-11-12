@@ -57,6 +57,7 @@ Raksha23zz
 - Data Analyst: Power BI
 - API
 - Data Structures
+- Google Gen AI
 
 ### Connect With Me
 
