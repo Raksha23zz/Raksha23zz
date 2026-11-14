@@ -29,6 +29,7 @@ Raksha23zz
 - 🧩 Interested in building practical software projects
 - 📊 Also diving into data analytics, because every dataset has a story.
 - 📫 Reach me at **[raksha6556@gmail.com](mailto:raksha6556@gmail.com)**
+- xx
 
 ### Tech Stack
 
