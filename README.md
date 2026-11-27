@@ -53,11 +53,11 @@ Raksha23zz
 
 ### Certifications
 
-- Introduction to Selenium
-- Data Analyst: Power BI
-- API
-- Data Structures
 - Google Gen AI
+- Data Analyst: Power BI
+- Next Gen Integration and API Economy
+- Data Structures
+
 
 ### Connect With Me
 
